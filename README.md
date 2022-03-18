@@ -1,5 +1,4 @@
-# is_mammal_or_not
-
+Animal Classification based on feature vectors.
 
 WE are provided with the dataset of animals along with their feature vectors. The objective of this program is to classify the animals as being mammal or not based on feature vectors.
 
